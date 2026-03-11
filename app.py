@@ -19,7 +19,7 @@ with col_logo:
 
 with col_title:
     st.markdown(
-    '<div class="event-title">Journée internationale des droits des femmes 💜</div>',
+    '<div class="event-title">J.I des droits des femmes 💜</div>',
     unsafe_allow_html=True
 )
 
