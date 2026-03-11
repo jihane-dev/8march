@@ -295,7 +295,7 @@ color:#ff66cc;              /* rose foncé */
 font-family:"Papyrus", cursive;
 font-size:36px;
 margin-top:-65px;
-margin-bottom:20px;
+margin-bottom:15px;
 border-bottom:3px solid #8e44ad;
 }
 .msg {
