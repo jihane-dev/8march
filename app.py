@@ -41,11 +41,11 @@ if "messages" not in st.session_state:
 st.markdown("""
 <style>
 .event-title{
-text-align:center;
 font-size:32px;
 font-family:"Papyrus", cursive;
 color:#8e44ad;
 margin-top:5px;
+margin-bottom:10px;
 }
 
 /* === PAGE GENERALE === */
